@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-dukescounty",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Dukes County GIS — Dukes County, Massachusetts open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-4e28dcb30334d558c923771474ddb9a4a0a759c8cd16a1c949c9240622baee91",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-94fe103ea0c14e31f00e33fbfc0f6d90ce56fb4b3f4d0c5da8622fa7cd1c94a0",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
